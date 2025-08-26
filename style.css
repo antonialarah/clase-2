@@ -3,7 +3,8 @@
                 margin: 0;
                 padding: 0;
                 background: pink;
-             font-family: "Henny Penny", system-ui;
+             font-family: "UnifrakturCook", Static;
+
             }
 
             h1 {
@@ -47,3 +48,4 @@
             span {
                 text-decoration: underline;
             }
+
