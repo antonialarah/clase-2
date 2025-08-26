@@ -7,7 +7,7 @@ var valor = document.getElementById("pecinco").offsetWidth;
             function setup() {
                 createCanvas(valor, valor, WEBGL).parent("#pecinco");
                 select("#nombre").html("antonia lara");
-                select("#aprendizaje").html("a aprender mas de illustrator y photoshop :3");
+                select("#aprendizaje").html("mas de illustrator y photoshop :3");
                 noStroke()
             }
             function draw() {
@@ -25,4 +25,5 @@ var valor = document.getElementById("pecinco").offsetWidth;
             function windowResized() {
                 resizeCanvas(valor, valor);
             }
+
 
